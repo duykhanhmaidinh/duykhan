@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
-- ✍ I'm a student of: [Trường THPT Nguyễn Trãi](https://hcmute.edu.vn) (HCMUTE).
+- ✍ I'm a student of: [Trường THPT Nguyễn Trãi](https://www.facebook.com/thptnguyentrai/)
 ## 📫 How to reach me:
 <p align="center">
   
